@@ -1,2 +1,3 @@
 chapter1.md
-whoIsThisFor.md
+chapter2KeyComponents.md
+chapter3TaleOfTwoApproaches.md
